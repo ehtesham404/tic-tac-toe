@@ -28,7 +28,7 @@ To run the Tic Tac Toe Game locally, follow these steps:
    git clone https://github.com/ehtesham404/tic-tac-toe.git
 
 ## Demo
-You can view a live demo of the Tic Tac Toe Game [here](https://gibrail404.github.io/Tic-Tac-Toe/).
+You can view a live demo of the Tic Tac Toe Game [here]( https://ehtesham404.github.io/tic-tac-toe/).
 
 ## License
 
